@@ -1,0 +1,2 @@
+# Run-to-failure-degradation-simulation-of-nasa-turbo-jet-engine-fans
+The NASA C-MAPSS dataset is a well-known public dataset for asset degradation modeling, focusing on predicting the remaining useful life (RUL) of turbofan jet engines. This dataset, provided by the Prognostics CoE at NASA Ames, contains Run-to-Failure simulated data from turbo fan jet engines under various operational conditions and fault modes.
